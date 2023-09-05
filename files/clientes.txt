@@ -1,0 +1,3 @@
+Ricardo Silva,000.000.000-00,ricardo@email.com
+Gabriela Morais,111.000.000-00,morais.gabriela@email.com
+Helena Castro,222.000.000-00,h.castro@email.com

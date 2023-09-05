@@ -1,0 +1,3 @@
+Spiderman 2,350.0,2020,Sony,52.5
+The Legend of Zelda,400.0,2030,Nintendo,60.0
+Halo Infinite,250.0,2040,Xbox,37.5
